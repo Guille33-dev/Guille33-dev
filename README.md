@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e475zje8cd91ptgxiuenq5mml126xkiwdg47la030ek&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e475zje8cd91ptgxiuenq5mml126xkiwdg47la030ek&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="center" style="width: 300px" />
 </div>  
   
 
@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="33%">
 
 
 
